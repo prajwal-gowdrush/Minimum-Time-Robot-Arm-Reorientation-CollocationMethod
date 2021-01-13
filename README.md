@@ -1,5 +1,5 @@
 # Minimum-Time-Robot-Arm-Reorientation-Collocation-
-In orthogonalCollocationAdigator folder RUN 'ExamplesSetup.m', and navigate to 'allExamples_ipopt' subfolder to find 'robotArm' and 'tgtsteer' subfolders and RUN 'robotArmMain.m' and 'tgtsteer.m' respectively. 
+In orthogonalCollocationAdigator folder RUN 'ExamplesSetup.m', and then navigate to 'allExamples_ipopt' subfolder to find 'robotArm' and 'tgtsteer' subfolders and RUN 'robotArmMain.m' and 'tgtsteer.m' respectively. 
 
 In LinearTgtSteering, 'MainScript_LinearTgtSteering_Indirect.m' for solution using Indirect Shooting.
 
